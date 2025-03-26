@@ -1,7 +1,7 @@
 <h1 align="center">letogan</h1>
 <h3 align="center">Python Developer</h3>
 
-- Project: <a href="https://dsc.gg/keks-app" target="_blank">KEKS</a>
+- Project: <a href="https://discord.com/oauth2/authorize?client_id=1271492050050879529" target="_blank">KEKS</a>
 
 - <a href="https://discord.com/" target="_blank">l3t0g4n</a> on Discord
 
