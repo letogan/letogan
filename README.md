@@ -3,9 +3,7 @@
 
 - Project: <a href="https://dsc.gg/keks-app" target="_blank">KEKS</a>
 
-- Soon: Necrosma, Intertrack
-
-- Connect with me: <a href="https://discord.com/" target="_blank">l3t0g4n</a> on Discord
+- <a href="https://discord.com/" target="_blank">l3t0g4n</a> on Discord
 
 <h3 align="center">Languages</h3>
 <p align="center"> 
