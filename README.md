@@ -1,4 +1,4 @@
-<h1 align="center">letogan / l3t0g4n</h1>
+<h1 align="center">letogan</h1>
 <h3 align="center">Python Developer</h3>
 
 - Project: <a href="https://dsc.gg/keks-app" target="_blank">KEKS</a>
