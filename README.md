@@ -1,4 +1,4 @@
-# Python Developer
+## Python Developer
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -8,7 +8,7 @@
 
 ---
 
-### Beispiel
+## Beispiel:
 
 ```python
 import discord
