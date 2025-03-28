@@ -1,4 +1,4 @@
-<h1 align="center">Python Developer</h1>
+# Python Developer
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -176,3 +176,8 @@ class Giveaway(commands.Cog):
 
 def setup(bot):
     bot.add_cog(Giveaway(bot))
+```
+
+## Kontakt
+
+- **Email:** [kontakt@keks-app.de]
