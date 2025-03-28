@@ -175,7 +175,6 @@ class Giveaway(commands.Cog):
 
 
 def setup(bot):
-    bot.add_cog(Giveaway(bot))
+    bot.add_cog(Giveaway(bot)) (```)
 
-´´´
-#b
+test
