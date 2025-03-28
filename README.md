@@ -180,4 +180,4 @@ def setup(bot):
 
 ## Kontakt
 
-- **Email:** [kontakt@keks-app.de]
+kontakt@keks-app.de
