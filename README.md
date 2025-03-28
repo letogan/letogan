@@ -1,10 +1,5 @@
-<h1 align="center">letogan</h1>
+<h1 align="center">Hakuna Matata</h1>
 <h3 align="center">Python Developer</h3>
-
-- Project: <a href="https://discord.com/oauth2/authorize?client_id=1271492050050879529" target="_blank">KEKS</a>
-
-- <a href="https://discord.com/" target="_blank">l3t0g4n</a> on Discord
-
 <h3 align="center">Languages</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
