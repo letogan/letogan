@@ -178,6 +178,4 @@ def setup(bot):
     bot.add_cog(Giveaway(bot))
 ```
 
-## Kontakt
-
-kontakt@keks-app.de
+## kontakt@keks-app.de
