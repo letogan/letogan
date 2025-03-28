@@ -6,8 +6,6 @@
   </a>
 </p>
 
-### Beispiel
-
 ```python
 import discord
 from discord.commands import slash_command
