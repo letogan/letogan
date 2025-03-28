@@ -1,4 +1,8 @@
-# Python Developer
+# Hakuna Matata
+
+### Python Developer  
+
+### Languages  
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -8,7 +12,7 @@
 
 ---
 
-# Beispiel:
+### Beispiel
 
 ```python
 import discord
