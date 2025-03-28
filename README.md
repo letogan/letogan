@@ -1,8 +1,4 @@
-# Hakuna Matata
-
-### Python Developer  
-
-### Languages  
+# Python Developer
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
