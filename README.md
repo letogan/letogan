@@ -1,13 +1,39 @@
-<h1 style="text-align: center;">Python Developer</h1>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
+<div align="center">
+  <h1>Python Developer</h1>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="150" height="150"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
-  </a>
-</p>
+</div>
+
+```python
+import discord
+import os
+from dotenv import load_dotenv
+
+
+intents = discord.Intents.default()
+intents.message_content = True
+intents.members = True
+
+
+bot = discord.Bot(
+    intents=intents
+)
+
+
+@bot.event
+async def on_ready():
+    print(f"{bot.user} ist online!")
+
+
+if __name__ == "__main__":
+    for filename in os.listdir("cogs"):
+        if filename.endswith(".py"):
+            bot.load_extension(f"cogs.{filename[:-3]}")
+
+
+load_dotenv()
+bot.run(os.getenv("TOKEN"))
+```
+# kontakt@keks-app.de
 
