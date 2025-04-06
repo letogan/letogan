@@ -6,8 +6,8 @@
 </div>
 
 ```python
-import discord
 import os
+import discord
 from dotenv import load_dotenv
 
 
