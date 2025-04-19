@@ -35,5 +35,5 @@ if __name__ == "__main__":
 load_dotenv()
 bot.run(os.getenv("TOKEN"))
 ```
-# kontakt@keks-app.de
+# contact@letogan.xyz
 
