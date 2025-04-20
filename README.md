@@ -5,5 +5,5 @@
   </a>
 </div>
 <div align="center">
-<h1><a href="mailto:contact@letogan.xyz">contact@letogan.dev</a></h1>
+<h1><a href="mailto:contact@letogan.xyz">contact@letogan.xyz</a></h1>
 
