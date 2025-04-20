@@ -8,5 +8,6 @@
 ```python
 print("hakuna matata")
 ```
-# contact@letogan.xyz
+<div align="center">
+<h1><a href="mailto:contact@letogan.xyz">contact@letogan.xyz</a></h1>
 
