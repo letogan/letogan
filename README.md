@@ -6,8 +6,6 @@
 </div>
 
 ```python
-import discord
-
 print("hakuna matata!")
 ```
 # contact@letogan.xyz
