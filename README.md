@@ -6,9 +6,7 @@
 </div>
 
 ```python
-print("hakuna matata!")
+print("hakuna matata")
 ```
-  <div class="zentriert">
-    <a href="contact@letogan.xyz">Hier geht's lang!</a>
-  </div>
+# contact@letogan.xyz
 
